@@ -20,8 +20,6 @@ cd PyMailAccess
 pip install -r requirements.txt
 ```
 
-````
-
 ## Usage
 
 ### Reading Emails
@@ -77,4 +75,7 @@ This project is licensed under the MIT license - see the [LICENSE](LICENSE) file
 - **Email Attachments**: Implement functionality to handle email attachments.
 - **Email Filters**: Add support for filtering emails based on criteria.
 - **Batch Sending**: Enhance `EmailSender` to support batch email sending.
-````
+
+```
+
+```
