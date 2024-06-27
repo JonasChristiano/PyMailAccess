@@ -72,10 +72,9 @@ This project is licensed under the MIT license - see the [LICENSE](LICENSE) file
 
 ## Future Features
 
-- **Email Attachments**: Implement functionality to handle email attachments.
-- **Email Filters**: Add support for filtering emails based on criteria.
-- **Batch Sending**: Enhance `EmailSender` to support batch email sending.
-
-```
-
-```
+- **File Attachments:** Enable sending emails with attachments such as PDFs, images, Word documents, etc.
+- **Email Templates:** Implement a system for email templates to facilitate sending consistently formatted messages like newsletters, account confirmations, etc.
+- **Advanced Error Handling:** Improve error handling to manage connection failures, sending errors, and other issues that may occur during the email sending process.
+- **Sending Logs:** Implement logging to record all email sending attempts, aiding in debugging and monitoring.
+- **Bulk Email Sending:** Add support for sending emails to a list of recipients, optimizing communication for large-scale operations.
+- **Scheduled Sending:** Allow scheduling emails for specific times, useful for marketing campaigns or automated reminders.
